@@ -13,6 +13,7 @@ We intend this hack challenge for people who are new to the concepts of the tech
 
 - Sven Jeroschewski
 - Markus Petke
+- Lukas Mittag
 
 ## Template Setup
 
