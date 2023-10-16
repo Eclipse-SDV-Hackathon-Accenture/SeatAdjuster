@@ -7,6 +7,8 @@ The seat adjuster showcases how to create a vehicle application that senses and 
 
 Finally there will be a suitcase with a real seat motor where you can deploy your app and see if the seat will move.
 
+![Suitcase](images/seatSuitcase.png)
+
 ## Need to know
 
 We intend this hack challenge for people who are new to the concepts of the technologies mentioned before. Because of that, we do not assume prior knowledge, but some experience with running Docker containers is helpful.
@@ -16,6 +18,8 @@ We intend this hack challenge for people who are new to the concepts of the tech
 - Sven Jeroschewski
 - Markus Petke
 - Lukas Mittag
+- Björn Hornburg
+- Serhii Korchynskyi
 
 ## Template Setup
 
