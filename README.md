@@ -2,8 +2,11 @@
 
 ## About
 
-In this hack challenge, you develop your vehicle application using Eclipse Velocitas. You start by setting up a seat adjuster example and then extend it with individual ideas.
+In this hack challenge, you develop your vehicle application using Eclipse Velocitas. You start by setting up a seat adjuster example and then extend it with individual ideas. For instance, you may allow the delivery of packages to your trunk, or create individualized welcome sequences when the driver approaches the vehicle.
+
 The seat adjuster showcases how to create a vehicle application that senses and actuates signals in a vehicle through Eclipse Kuksa and the Vehicle Signal Specification (VSS). It runs on Eclipse Leda, and we use Eclipse Velocitas for the development.
+
+![Seat Adjuster Architecture](./images/seatAdjusterArchitecture.png)
 
 Finally there will be a suitcase with a real seat motor where you can deploy your app and see if the seat will move.
 
