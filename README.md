@@ -1,4 +1,4 @@
-# Develop your Eclipse Velocitas vehicle application
+# 🚘 Develop your Eclipse Velocitas vehicle application 🚘
 
 ## ℹ️ Introduction
 
