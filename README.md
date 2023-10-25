@@ -24,11 +24,11 @@ We intend this hack challenge for people who are new to the concepts of the tech
 
 ## 🧑‍🤝‍🧑 Hack-Coaches
 
-- Sven Jeroschewski
-- Markus Petke
-- Lukas Mittag
-- Björn Hornburg
-- Serhii Korchynskyi 
+- [Sven Erik Jeroschewski](https://github.com/eriksven)
+- [Markus Petke](https://github.com/MP91)
+- [Lukas Mittag](https://github.com/lukasmittag)
+- [Björn Hornburg](https://github.com/BjoernAtBosch)
+- [Serhii Korchynskyi](https://github.com/kse3hi)
 
 ## ❗❗❗ How to start? 
 
