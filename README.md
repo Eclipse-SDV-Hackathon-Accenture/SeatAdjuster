@@ -8,18 +8,16 @@ The Seat Adjuster showcases how to create a Vehicle Application that senses and 
 
 ![Seat Adjuster Architecture](./images/seatAdjusterArchitecture.png)
 
-Finally there will be a suitcase with a real seat motor where you can deploy your app and see if the seat will move.
-
-![Suitcase](images/seatSuitcase.png)
-
 ## 🖥️ Need to know
 
 We intend this hack challenge for people who are new to the concepts of the technologies mentioned before. Because of that, we do not assume prior knowledge, but some experience with running Docker containers is helpful.
 
 ## 🍦 Creative challenge
+
 - Create custom, individual, user-friendly scenario or use-case based on available combination of VSS signals
 
 ## 🍨 Technical challenge
+
 - Create a Vehicle Application based on your use-case or scenario
 
 ## 🧑‍🤝‍🧑 Hack-Coaches
@@ -27,10 +25,9 @@ We intend this hack challenge for people who are new to the concepts of the tech
 - [Sven Erik Jeroschewski](https://github.com/eriksven)
 - [Markus Petke](https://github.com/MP91)
 - [Lukas Mittag](https://github.com/lukasmittag)
-- [Björn Hornburg](https://github.com/BjoernAtBosch)
 - [Serhii Korchynskyi](https://github.com/kse3hi)
 
-## ❗❗❗ How to start? 
+## ❗❗❗ How to start?
 
 To set up the template, follow the explanation for the [Seat Adjuster in Eclipse Leda](https://eclipse-leda.github.io/leda/docs/app-deployment/seat-adjuster/). In the end, you should have a copy of the Eclipse Velocitas Template repository with the seat adjuster example where you can start to develop your application.
 The seat adjuster evolves around setting the signal: `Vehicle.Cabin.Seat.Row1.Pos1.Position` from the Vehicle Signal Specification (VSS). To develop other applications, you, therefore, need to find the matching signal. The [signal catalog of digital.auto](https://digitalauto.netlify.app/model/STLWzk1WyqVVLbfymb4f/cvi/list) is  helpful here. You can also use this catalog to ideate on further applications.
